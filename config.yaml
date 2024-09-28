@@ -1,0 +1,35 @@
+# Data paths
+raw_data:
+  sensor_data: "data/raw/sensor_data.csv"
+  admission_data: "data/raw/admission_data.csv"
+
+processed_data:
+  train_data: "data/processed/train_data.csv"
+  test_data: "data/processed/test_data.csv"
+
+# Model parameters
+model:
+  input_dim: 50 # Update this based on the actual number of features after preprocessing and engineering
+  num_classes: 3
+  learning_rate: 0.001
+  batch_size: 32
+  epochs: 100
+  validation_split: 0.2
+
+# Feature engineering
+feature_engineering:
+  use_polynomial_features: true
+  polynomial_degree: 2
+  interaction_features:
+    - ["age", "bmi"]
+    - ["heart_rate", "mean_arterial_pressure"]
+
+# Evaluation
+evaluation:
+  test_size: 0.2
+  random_state: 42
+
+# Thresholds for patient condition classification
+condition_thresholds:
+  stable_threshold: 0.6
+  critical_threshold: 0.8

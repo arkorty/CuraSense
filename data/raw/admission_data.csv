@@ -1,0 +1,101 @@
+patient_id,admission_date,condition,severity,age,gender
+1,2024-09-24 10:18:58.450496,Stroke,Mild,52,Female
+2,2024-09-11 10:18:58.450534,Pneumonia,Moderate,78,Female
+3,2024-09-02 10:18:58.450541,Trauma,Mild,58,Male
+4,2024-09-16 10:18:58.450545,Trauma,Moderate,50,Female
+5,2024-09-20 10:18:58.450549,Sepsis,Moderate,85,Male
+6,2024-09-23 10:18:58.450553,Trauma,Severe,50,Female
+7,2024-09-02 10:18:58.450556,Sepsis,Moderate,31,Male
+8,2024-09-10 10:18:58.450560,Pneumonia,Severe,38,Male
+9,2024-09-24 10:18:58.450564,Stroke,Mild,65,Female
+10,2024-09-05 10:18:58.450568,Stroke,Mild,37,Male
+11,2024-09-12 10:18:58.450571,Stroke,Mild,25,Female
+12,2024-09-08 10:18:58.450575,Trauma,Mild,24,Female
+13,2024-09-20 10:18:58.450579,Pneumonia,Severe,84,Female
+14,2024-09-20 10:18:58.450582,Trauma,Mild,34,Male
+15,2024-09-07 10:18:58.450586,Trauma,Moderate,50,Male
+16,2024-09-10 10:18:58.450590,Pneumonia,Moderate,65,Female
+17,2024-09-27 10:18:58.450593,Pneumonia,Moderate,76,Female
+18,2024-09-23 10:18:58.450597,Pneumonia,Severe,39,Male
+19,2024-09-07 10:18:58.450601,Pneumonia,Mild,47,Female
+20,2024-09-28 10:18:58.450604,Stroke,Mild,55,Female
+21,2024-09-09 10:18:58.450608,Heart Failure,Mild,68,Female
+22,2024-09-10 10:18:58.450612,Heart Failure,Severe,71,Male
+23,2024-09-29 10:18:58.450615,Pneumonia,Moderate,25,Male
+24,2024-09-07 10:18:58.450619,Heart Failure,Moderate,44,Male
+25,2024-09-19 10:18:58.450623,Heart Failure,Mild,44,Female
+26,2024-09-25 10:18:58.450626,Pneumonia,Moderate,38,Female
+27,2024-09-29 10:18:58.450630,Heart Failure,Moderate,47,Female
+28,2024-09-03 10:18:58.450634,Trauma,Severe,45,Male
+29,2024-09-10 10:18:58.450637,Sepsis,Severe,81,Female
+30,2024-09-30 10:18:58.450641,Sepsis,Severe,86,Female
+31,2024-09-19 10:18:58.450645,Pneumonia,Severe,78,Female
+32,2024-09-05 10:18:58.450648,Stroke,Mild,65,Female
+33,2024-09-09 10:18:58.450652,Pneumonia,Severe,36,Male
+34,2024-09-02 10:18:58.450655,Stroke,Moderate,21,Male
+35,2024-09-19 10:18:58.450659,Sepsis,Mild,52,Female
+36,2024-09-06 10:18:58.450663,Pneumonia,Moderate,81,Male
+37,2024-09-14 10:18:58.450666,Trauma,Moderate,66,Male
+38,2024-09-04 10:18:58.450670,Heart Failure,Moderate,34,Female
+39,2024-09-04 10:18:58.450673,Stroke,Severe,61,Female
+40,2024-09-21 10:18:58.450677,Heart Failure,Severe,47,Male
+41,2024-09-03 10:18:58.450681,Heart Failure,Mild,63,Female
+42,2024-09-03 10:18:58.450684,Pneumonia,Mild,23,Male
+43,2024-09-15 10:18:58.450689,Heart Failure,Severe,54,Female
+44,2024-09-16 10:18:58.450695,Trauma,Moderate,41,Male
+45,2024-09-16 10:18:58.450701,Heart Failure,Mild,63,Female
+46,2024-09-12 10:18:58.450708,Pneumonia,Severe,70,Male
+47,2024-09-19 10:18:58.450714,Trauma,Severe,77,Male
+48,2024-09-08 10:18:58.450720,Sepsis,Severe,80,Male
+49,2024-09-11 10:18:58.450723,Heart Failure,Moderate,49,Female
+50,2024-09-06 10:18:58.450727,Pneumonia,Severe,50,Male
+51,2024-09-28 10:18:58.450731,Sepsis,Severe,84,Male
+52,2024-09-26 10:18:58.450734,Sepsis,Severe,35,Female
+53,2024-09-12 10:18:58.450738,Stroke,Severe,42,Female
+54,2024-09-24 10:18:58.450742,Trauma,Mild,71,Male
+55,2024-09-10 10:18:58.450745,Heart Failure,Mild,75,Male
+56,2024-09-22 10:18:58.450749,Pneumonia,Severe,84,Female
+57,2024-09-24 10:18:58.450752,Stroke,Moderate,63,Female
+58,2024-09-13 10:18:58.450756,Trauma,Mild,41,Female
+59,2024-09-27 10:18:58.450760,Stroke,Severe,49,Female
+60,2024-09-06 10:18:58.450763,Trauma,Mild,64,Female
+61,2024-09-03 10:18:58.450767,Trauma,Mild,40,Male
+62,2024-09-17 10:18:58.450771,Heart Failure,Moderate,83,Female
+63,2024-09-13 10:18:58.450774,Trauma,Severe,44,Male
+64,2024-09-05 10:18:58.450778,Stroke,Severe,19,Male
+65,2024-09-22 10:18:58.450781,Trauma,Moderate,34,Male
+66,2024-09-05 10:18:58.450785,Heart Failure,Moderate,50,Female
+67,2024-09-10 10:18:58.450789,Heart Failure,Severe,26,Male
+68,2024-09-29 10:18:58.450793,Stroke,Severe,60,Male
+69,2024-09-11 10:18:58.450796,Sepsis,Moderate,65,Female
+70,2024-09-03 10:18:58.450800,Sepsis,Mild,56,Male
+71,2024-09-16 10:18:58.450803,Trauma,Mild,59,Male
+72,2024-09-03 10:18:58.450807,Pneumonia,Moderate,43,Female
+73,2024-09-24 10:18:58.450810,Trauma,Mild,67,Male
+74,2024-09-19 10:18:58.450814,Stroke,Moderate,42,Male
+75,2024-09-02 10:18:58.450817,Stroke,Mild,41,Male
+76,2024-09-23 10:18:58.450821,Stroke,Mild,30,Female
+77,2024-09-16 10:18:58.450825,Stroke,Severe,77,Female
+78,2024-09-28 10:18:58.450828,Stroke,Severe,24,Female
+79,2024-09-17 10:18:58.450832,Heart Failure,Mild,74,Male
+80,2024-09-14 10:18:58.450836,Sepsis,Mild,53,Male
+81,2024-09-27 10:18:58.450839,Stroke,Severe,62,Female
+82,2024-09-13 10:18:58.450843,Pneumonia,Severe,37,Male
+83,2024-09-23 10:18:58.450846,Pneumonia,Severe,82,Male
+84,2024-09-27 10:18:58.450850,Pneumonia,Moderate,25,Female
+85,2024-09-29 10:18:58.450853,Pneumonia,Mild,33,Female
+86,2024-09-25 10:18:58.450857,Heart Failure,Severe,31,Male
+87,2024-09-09 10:18:58.450861,Pneumonia,Mild,32,Male
+88,2024-09-21 10:18:58.450864,Stroke,Moderate,83,Male
+89,2024-09-27 10:18:58.450868,Trauma,Moderate,49,Female
+90,2024-09-09 10:18:58.450871,Pneumonia,Severe,80,Female
+91,2024-09-02 10:18:58.450875,Heart Failure,Moderate,68,Female
+92,2024-09-13 10:18:58.450878,Heart Failure,Mild,42,Female
+93,2024-09-05 10:18:58.450882,Pneumonia,Severe,75,Male
+94,2024-09-19 10:18:58.450886,Trauma,Mild,80,Female
+95,2024-09-29 10:18:58.450889,Pneumonia,Mild,79,Female
+96,2024-09-21 10:18:58.450893,Heart Failure,Moderate,39,Female
+97,2024-09-27 10:18:58.450896,Sepsis,Moderate,75,Female
+98,2024-09-17 10:18:58.450900,Stroke,Moderate,75,Female
+99,2024-09-15 10:18:58.450904,Heart Failure,Moderate,66,Male
+100,2024-09-16 10:18:58.450907,Pneumonia,Moderate,69,Male
